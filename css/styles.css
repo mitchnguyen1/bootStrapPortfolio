@@ -11457,6 +11457,18 @@ header.masthead h1, header.masthead .h1 {
   }
 }
 
+.socialLinks{
+  text-align: center;
+  margin-right: 2.5rem;
+}
+
+.fa {
+  padding: 3rem;
+  font-size: 5rem;
+  width: 50px;
+  text-decoration: none;
+  color: white;
+}
 #portfolio{
   background-color: black;
 }
