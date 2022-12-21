@@ -61,7 +61,7 @@ window.addEventListener('DOMContentLoaded', event => {
 var i = 0;
 function change() {
 var doc = document.getElementById("font");
-var font = ['Londrina Solid', 'Nerko One', 'Bangers','Beau Rivage', 'Blaka Hollow'];
+var font = ['Londrina Solid', 'Nerko One','Hanalei Fill','Fruktur','Leckerli One'];
 doc.style.fontFamily = font[i];
 i = (i + 1) % font.length;
 }
