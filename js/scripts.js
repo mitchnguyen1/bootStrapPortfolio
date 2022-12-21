@@ -65,4 +65,4 @@ var font = ['Londrina Solid', 'Nerko One','Hanalei Fill','Fruktur','Leckerli One
 doc.style.fontFamily = font[i];
 i = (i + 1) % font.length;
 }
-setInterval(change, 1100);
+setInterval(change, 900);
